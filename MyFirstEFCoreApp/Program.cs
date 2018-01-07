@@ -6,9 +6,6 @@ namespace MyFirstEFCoreApp
     {
         static void Main(string[] args)
         {
-            //
-
-
             Console.WriteLine("Hello World!");
         }
     }
